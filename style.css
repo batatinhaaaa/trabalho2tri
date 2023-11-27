@@ -1,5 +1,5 @@
 body {
-    backgraound: #ccccc
+    
 }
 
 #banner {
@@ -7,14 +7,19 @@ body {
 }
 
 .principal{ 
-    backgraound: #ccccc
+    backgraound: #cccccC
+    padding: 30px;
 }
 
-h1{
-    style="text-align: center"
+.titulo-principal{
+    padding-left: 20px;
 }
 
-p{
+.titulo-centralizado {
+    text-align: center
+}
+
+p {
    text-align: center;
 }
 
@@ -27,7 +32,7 @@ em strong {
 }
 
  .itens{
-    font-style: italic;
+    font-style: italic
  }
 
  .beneficios{
@@ -35,9 +40,6 @@ em strong {
         padding: 20px;
  }
 
- h2 {
-    text-align: center;
- }
  ul {
     display: inline-block;
     vertical-align: top;
